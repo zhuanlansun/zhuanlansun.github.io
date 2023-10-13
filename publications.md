@@ -6,7 +6,7 @@ title: Publications
 
 Lastest Update: 10 Oct 2023&nbsp;  
 
-## Published Paper
+### Published Paper
 
 - **Sun, Z.**, Cao,C., Ma, C., & Li, Y. (2023). The academic status of reviewers predicts their language use. ***Journal of Informetrics***, 17(4), 101449.
 
@@ -14,7 +14,7 @@ Lastest Update: 10 Oct 2023&nbsp;
 
 - **Sun, Z.**, & Zhu, D. (2023). Surveillance of public risk perceptions on outdoor air pollution: Evidence from online search behaviours in China. ***Journal of Environmental Planning and Management***, 1–21.
 
-- Wei, W., Liu, H., & **Sun, Z(通讯)***. (2022). Cover papers of top journals are reliable source for emerging topics detection: A machine learning based prediction framework. ***Scientometrics***, 127(8), 4315–4333.
+- Wei, W., Liu, H., & **Sun, Z(Corresponding Author)**. (2022). Cover papers of top journals are reliable source for emerging topics detection: A machine learning based prediction framework. ***Scientometrics**, 127(8), 4315–4333.
 
 - **Sun, Z.**, & Zhu, D. (2021). Investigating environmental regulation effects on technological innovation: A meta-regression analysis. ***Energy & Environment***, 34(3), 463–492.
 
@@ -22,10 +22,10 @@ Lastest Update: 10 Oct 2023&nbsp;
 
 - **Sun, Z.**, & Zhu, D. (2019). Exposure to outdoor air pollution and its human-related health outcomes: An evidence gap map. ***BMJ Open***, 9(12).
 
-- **Sun, Z.**, & Zhu, D. (2019). Exposure to outdoor air pollution and its human health outcomes: A scoping review. ***PLoS ONE***, 14(5), e0216550. 4
+- **Sun, Z.**, & Zhu, D. (2019). Exposure to outdoor air pollution and its human health outcomes: A scoping review. ***PLoS ONE***, 14(5), e0216550. 
 
 
-# Working papers
+### Working papers
 
 - **Sun Z.**, Cao C, Li Y, Ma C. Two can play that game of ‘you’: The behavioral consequences of using second-person pronouns in written communications.
 
