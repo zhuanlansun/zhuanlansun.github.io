@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/zhuanlansun/zhuanlansun.github.io/images/aboutme.jpg" class="floatpic" width="360" height="480">
+<img src="aboutme.jpg" class="floatpic" width="360" height="480">
 
 Here is **Zhuanlan Sun (孙转兰)**.
 
