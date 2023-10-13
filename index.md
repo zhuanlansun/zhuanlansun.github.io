@@ -14,11 +14,9 @@ I am currently an assistant professor majoring in **management science and engin
 
 ## Academic Background
 
-# **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2018 - June 2022:** Fuzhou University (PhD)
-- **Nov 2020 - Nov 2021:** Fuzhou University (Joint PhD)
-- **Sep 2008 - March 2011:** Maynooth University (Master)
+- **Sep 2018 - June 2022:** Tongji University (PhD)
+- **Nov 2020 - Nov 2021:** Sungkyunkwan University (Joint PhD)
+- **Sep 2008 - March 2011:** Tongji University (Master)
 - **Sep 2004 - June 2008:** Shanxi Datong University (Undergraduate)
 
 <br>
