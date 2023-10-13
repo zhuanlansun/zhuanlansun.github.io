@@ -4,32 +4,29 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 2nd Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 10 Oct 2023&nbsp;  
 
-## Conference Paper
+## Published Paper
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
+- **Sun, Z.**, Cao,C., Ma, C., & Li, Y. (2023). The academic status of reviewers predicts their language use. ***Journal of Informetrics***, 17(4), 101449.
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
+- **Sun, Z.**, Liu, S., Li, Y., & Ma, C. (2023). Expedited editorial decision in COVID-19 Pandemic. ***Journal of Informetrics***, 17(1), 101382.
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- **Sun, Z.**, & Zhu, D. (2023). Surveillance of public risk perceptions on outdoor air pollution: Evidence from online search behaviours in China. ***Journal of Environmental Planning and Management***, 1–21.
 
-  <br>
+- Wei, W., Liu, H., & **Sun, Z(通讯)***. (2022). Cover papers of top journals are reliable source for emerging topics detection: A machine learning based prediction framework. ***Scientometrics***, 127(8), 4315–4333.
 
-## Working Manuscript
+- **Sun, Z.**, & Zhu, D. (2021). Investigating environmental regulation effects on technological innovation: A meta-regression analysis. ***Energy & Environment***, 34(3), 463–492.
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>MDPI Sensors Journal (IF: 3.847, JCR Q2). Under major modification.<br>
+- **Sun, Z.**, Cang, J., Ruan, Y., & Zhu, D. (2020). Reporting gaps between news media and scientific papers on outdoor air pollution-related health outcomes: A content analysis. **International Journal of Health Planning and Management**, 35(1), 221–232.
 
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
+- **Sun, Z.**, & Zhu, D. (2019). Exposure to outdoor air pollution and its human-related health outcomes: An evidence gap map. ***BMJ Open***, 9(12).
 
-  <br>
+- **Sun, Z.**, & Zhu, D. (2019). Exposure to outdoor air pollution and its human health outcomes: A scoping review. ***PLoS ONE***, 14(5), e0216550. 4
 
----
 
-## Undergraduate Thesis
+# Working papers
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
+- **Sun Z.**, Cao C, Li Y, Ma C. Two can play that game of ‘you’: The behavioral consequences of using second-person pronouns in written communications.
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
 
-  <br>
