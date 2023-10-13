@@ -4,7 +4,6 @@ layout: page
 
 # About Me
 
-<img src="aboutme.jpg" class="floatpic" width="360" height="480">
 
 Here is **Zhuanlan Sun (孙转兰)**.
 
