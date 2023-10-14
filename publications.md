@@ -14,7 +14,7 @@ Lastest Update: 10 Oct 2023&nbsp;
 
 - **Sun, Z.**, & Zhu, D. (2023). Surveillance of public risk perceptions on outdoor air pollution: Evidence from online search behaviours in China. ***Journal of Environmental Planning and Management***, 1–21.
 
-- Wei, W., Liu, H., & **Sun, Z(Corresponding Author)**. (2022). Cover papers of top journals are reliable source for emerging topics detection: A machine learning based prediction framework. ***Scientometrics**, 127(8), 4315–4333.
+- Wei, W., Liu, H., & **Sun, Z(Corresponding Author)**. (2022). Cover papers of top journals are reliable source for emerging topics detection: A machine learning based prediction framework. ***Scientometrics***, 127(8), 4315–4333.
 
 - **Sun, Z.**, & Zhu, D. (2021). Investigating environmental regulation effects on technological innovation: A meta-regression analysis. ***Energy & Environment***, 34(3), 463–492.
 
