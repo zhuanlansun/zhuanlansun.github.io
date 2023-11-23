@@ -8,6 +8,8 @@ Lastest Update: 10 Oct 2023&nbsp;
 
 ### Published Paper
 
+- **Sun, Z.**, Bai,R., & Bai, Z. (2023). The Application of Simulation Methods During the COVID-19 Pandemic: A Scoping Review. ***Journal of Biomedical Informatics***, 104543.
+
 - **Sun, Z.**, Cao,C., Ma, C., & Li, Y. (2023). The academic status of reviewers predicts their language use. ***Journal of Informetrics***, 17(4), 101449.
 
 - **Sun, Z.**, Liu, S., Li, Y., & Ma, C. (2023). Expedited editorial decision in COVID-19 Pandemic. ***Journal of Informetrics***, 17(1), 101382.
@@ -27,6 +29,5 @@ Lastest Update: 10 Oct 2023&nbsp;
 
 ### Working papers
 
-- **Sun Z.**, Cao C, Li Y, Ma C. Two can play that game of ‘you’: The behavioral consequences of using second-person pronouns in written communications.
-
+- **Sun, Z.**, Cao, C., Liu, S., Li, Y., Ma, C. The behavioral consequences of using second-person pronouns in written communications between authors and reviewers of scientific papers. ***Nature Communications***(Conditional accepted)
 
