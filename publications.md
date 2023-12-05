@@ -4,9 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 23 Nov 2023&nbsp;  
+Lastest Update: 6 Dec 2023&nbsp;  
 
 ### Published Paper
+
+- **Sun, Z.**, Han, Z., & Zhu, D. (2023). How does air pollution threaten mental health? Protocol for a machine-learning enhanced systematic map. ***BMJ Open***.
 
 - **Sun, Z.**, Bai,R., & Bai, Z. (2023). The Application of Simulation Methods During the COVID-19 Pandemic: A Scoping Review. ***Journal of Biomedical Informatics***, 104543.
 
