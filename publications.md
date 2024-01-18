@@ -4,11 +4,15 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 6 Dec 2023&nbsp;  
+Lastest Update: 18 Jan 2024&nbsp;  
 
 ### Published Paper
 
-- **Sun, Z.**, Han, Z., & Zhu, D. (2023). How does air pollution threaten mental health? Protocol for a machine-learning enhanced systematic map. ***BMJ Open***.
+- **Sun, Z.(Corresponding Author)** (2024). The academic status of reviewers predicts their language use. ***Journal of Informetrics***, 18(2).
+
+- **Sun, Z.**, Cao, C., Liu, S., Li, Y., Ma, C. (2024). The behavioral consequences of using second-person pronouns in written communications between authors and reviewers of scientific papers. ***Nature Communications***
+  
+- **Sun, Z.**, Han, Z., & Zhu, D. (2024). How does air pollution threaten mental health? Protocol for a machine-learning enhanced systematic map. ***BMJ Open***.
 
 - **Sun, Z.**, Bai,R., & Bai, Z. (2023). The Application of Simulation Methods During the COVID-19 Pandemic: A Scoping Review. ***Journal of Biomedical Informatics***, 104543.
 
@@ -31,5 +35,5 @@ Lastest Update: 6 Dec 2023&nbsp;
 
 ### Working papers
 
-- **Sun, Z.**, Cao, C., Liu, S., Li, Y., Ma, C. The behavioral consequences of using second-person pronouns in written communications between authors and reviewers of scientific papers. ***Nature Communications***(Conditional accepted)
+
 
