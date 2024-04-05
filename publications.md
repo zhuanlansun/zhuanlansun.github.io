@@ -4,9 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 18 Jan 2024&nbsp;  
+Lastest Update: 5 April 2024&nbsp;  
 
 ### Published Paper
+
+- **Sun, Z.**, P, K., Li, Y. (2024). The fading of status bias during the open peer review process. ***Journal of Informetrics***, 18(3).
 
 - **Sun, Z.(Corresponding Author)** (2024). The academic status of reviewers predicts their language use. ***Journal of Informetrics***, 18(2).
 
@@ -35,5 +37,6 @@ Lastest Update: 18 Jan 2024&nbsp;
 
 ### Working papers
 
+- NA
 
 
