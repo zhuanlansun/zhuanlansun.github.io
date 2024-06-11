@@ -4,9 +4,13 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 5 April 2024&nbsp;  
+Lastest Update: 10 June 2024&nbsp;  
 
 ### Published Paper
+
+- R, Z., **Sun, Z.** (2024). The impact of being selected as a cover paper: Evidence from high-impact materials science journals. ***Journal of Information Science***.
+
+- **Sun, Z.**, D, H., Li, Y. (2024). How the readability of manuscript before journal submission advantages peer review process: Evidence from biomedical scientific publications. ***Journal of Informetrics***, 18(3).
 
 - **Sun, Z.**, P, K., Li, Y. (2024). The fading of status bias during the open peer review process. ***Journal of Informetrics***, 18(3).
 
