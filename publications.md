@@ -11,7 +11,7 @@ Lastest Update: 10 June 2024&nbsp;
 #### 2024
 
 - Y, T., F, Y., R, Z., **Sun, Z.(Corresponding Author)** (2024). Evaluation of the use of evidence in physical activity videos. ***Digital Health (Accept)***.
-- 
+
 - R, Z., **Sun, Z.(Corresponding Author)** (2024). The impact of being selected as a cover paper: Evidence from high-impact materials science journals. ***Journal of Information Science***.
 
 - **Sun, Z.**, D, H., Li, Y. (2024). How the readability of manuscript before journal submission advantages peer review process: Evidence from biomedical scientific publications. ***Journal of Informetrics***, 18(3).
