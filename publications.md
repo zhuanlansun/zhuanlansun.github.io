@@ -10,6 +10,8 @@ Lastest Update: 5 August 2024&nbsp;
 
 #### 2024
 
+- **Sun, Z.**, Zhang, C., P, K., Li, Y. (2024). Do Changes in Journal Rank Influence Publication Output? Evidence from China. ******Scientometrics (Accept)***.
+
 - Y, T., F, Y., R, Z., **Sun, Z.(Corresponding Author)** (2024). Evaluation of the use of evidence in physical activity videos. ***Digital Health (Accept)***.
 
 - R, Z., **Sun, Z.(Corresponding Author)** (2024). The impact of being selected as a cover paper: Evidence from high-impact materials science journals. ***Journal of Information Science***.
