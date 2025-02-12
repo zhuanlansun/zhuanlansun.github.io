@@ -4,21 +4,19 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 5 August 2024&nbsp;  
+Lastest Update: 5 February 2025&nbsp;  
 
 ### Published Paper
 
 #### 2024
 
-- **Sun, Z.**, Zhang, C., P, K., Li, Y. (2024). Do Changes in Journal Rank Influence Publication Output? Evidence from China. ******Scientometrics (Accept)***.
+- **Sun, Z.**, Zhang, C., Pang, K., **Tang, Y.(undergraduate)**, Li, Y. (2024). Do Changes in Journal Rank Influence Publication Output? Evidence from China. ****Scientometrics***, 129(11).
 
-- Y, T., F, Y., R, Z., **Sun, Z.(Corresponding Author)** (2024). Evaluation of the use of evidence in physical activity videos. ***Digital Health (Accept)***.
+- **Zhang, R.(undergraduate)**, **Sun, Z.(Corresponding Author)** (2024). The impact of being selected as a cover paper: Evidence from high-impact materials science journals. ***Journal of Information Science***.
 
-- R, Z., **Sun, Z.(Corresponding Author)** (2024). The impact of being selected as a cover paper: Evidence from high-impact materials science journals. ***Journal of Information Science***.
+- **Sun, Z.**, He, D., Li, Y. (2024). How the readability of manuscript before journal submission advantages peer review process: Evidence from biomedical scientific publications. ***Journal of Informetrics***, 18(3).
 
-- **Sun, Z.**, D, H., Li, Y. (2024). How the readability of manuscript before journal submission advantages peer review process: Evidence from biomedical scientific publications. ***Journal of Informetrics***, 18(3).
-
-- **Sun, Z.**, P, K., Li, Y. (2024). The fading of status bias during the open peer review process. ***Journal of Informetrics***, 18(3).
+- **Sun, Z.**, Pang, K., Li, Y. (2024). The fading of status bias during the open peer review process. ***Journal of Informetrics***, 18(3).
 
 - **Sun, Z.(Corresponding Author)** (2024). The academic status of reviewers predicts their language use. ***Journal of Informetrics***, 18(2).
 
