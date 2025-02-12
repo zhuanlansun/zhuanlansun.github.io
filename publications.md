@@ -10,9 +10,9 @@ Lastest Update: 5 February 2025&nbsp;
 
 #### 2024
 
-- **Sun, Z.**, Zhang, C., Pang, K., <u>Tang, Y(undergraduate)<u>., Li, Y. (2024). Do Changes in Journal Rank Influence Publication Output? Evidence from China. ***Scientometrics***, 129(11).
+- **Sun, Z.**, Zhang, C., Pang, K., **_Tang, Y(Undergraduate)_**., Li, Y. (2024). Do Changes in Journal Rank Influence Publication Output? Evidence from China. ***Scientometrics***, 129(11).
 
-- <u>Zhang, R(undergraduate)<u>., **Sun, Z.(Corresponding Author)** (2024). The impact of being selected as a cover paper: Evidence from high-impact materials science journals. ***Journal of Information Science***.
+- **_Zhang, R(Undergraduate)_**., **Sun, Z.(Corresponding Author)** (2024). The impact of being selected as a cover paper: Evidence from high-impact materials science journals. ***Journal of Information Science***.
 
 - **Sun, Z.**, He, D., Li, Y. (2024). How the readability of manuscript before journal submission advantages peer review process: Evidence from biomedical scientific publications. ***Journal of Informetrics***, 18(3).
 
