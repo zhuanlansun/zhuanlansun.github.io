@@ -4,9 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 5 February 2025&nbsp;  * Corresponding Author
+Lastest Update: 5 February 2025&nbsp; 
 
-### Published Paper
+### Published Paper (* Corresponding Author)
 
 #### 2024
 
@@ -18,7 +18,7 @@ Lastest Update: 5 February 2025&nbsp;  * Corresponding Author
 
 - **Sun, Z.**, Pang, K., Li, Y. (2024). The fading of status bias during the open peer review process. ***Journal of Informetrics***, 18(3).
 
-- **Sun, Z.***. (2024). Textual features of peer review predict top-cited papers: An interpretable machine learning perspective. ***Journal of Informetrics***, 18(2).
+- **Sun, Z***. (2024). Textual features of peer review predict top-cited papers: An interpretable machine learning perspective. ***Journal of Informetrics***, 18(2).
 
 - **Sun, Z.**, Cao, C., Liu, S., Li, Y., Ma, C. (2024). The behavioral consequences of using second-person pronouns in written communications between authors and reviewers of scientific papers. ***Nature Communications***
   
