@@ -4,21 +4,21 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 5 February 2025&nbsp;  
+Lastest Update: 5 February 2025&nbsp;  * Corresponding Author
 
 ### Published Paper
 
 #### 2024
 
-- **Sun, Z.**, Zhang, C., Pang, K., *Tang, Y., Li, Y. (2024). Do Changes in Journal Rank Influence Publication Output? Evidence from China. ***Scientometrics***, 129(11).
+- **Sun, Z.**, Zhang, C., Pang, K., Tang, Y., Li, Y. (2024). Do Changes in Journal Rank Influence Publication Output? Evidence from China. ***Scientometrics***, 129(11).
 
-- **_Zhang, R(Undergraduate)_**., **Sun, Z.(Corresponding Author)** (2024). The impact of being selected as a cover paper: Evidence from high-impact materials science journals. ***Journal of Information Science***.
+- **_Zhang, R(Undergraduate)_**., Sun, Z*. (2024). The impact of being selected as a cover paper: Evidence from high-impact materials science journals. ***Journal of Information Science***.
 
 - **Sun, Z.**, He, D., Li, Y. (2024). How the readability of manuscript before journal submission advantages peer review process: Evidence from biomedical scientific publications. ***Journal of Informetrics***, 18(3).
 
 - **Sun, Z.**, Pang, K., Li, Y. (2024). The fading of status bias during the open peer review process. ***Journal of Informetrics***, 18(3).
 
-- **Sun, Z.(Corresponding Author)** (2024). The academic status of reviewers predicts their language use. ***Journal of Informetrics***, 18(2).
+- **Sun, Z.***. (2024). Textual features of peer review predict top-cited papers: An interpretable machine learning perspective. ***Journal of Informetrics***, 18(2).
 
 - **Sun, Z.**, Cao, C., Liu, S., Li, Y., Ma, C. (2024). The behavioral consequences of using second-person pronouns in written communications between authors and reviewers of scientific papers. ***Nature Communications***
   
@@ -36,7 +36,7 @@ Lastest Update: 5 February 2025&nbsp;
 
 #### 2022
 
-- Wei, W., Liu, H., & **Sun, Z(Corresponding Author)**. (2022). Cover papers of top journals are reliable source for emerging topics detection: A machine learning based prediction framework. ***Scientometrics***, 127(8), 4315–4333.
+- Wei, W., Liu, H., & **Sun, Z***. (2022). Cover papers of top journals are reliable source for emerging topics detection: A machine learning based prediction framework. ***Scientometrics***, 127(8), 4315–4333.
 
 #### 2021
 
