@@ -38,7 +38,15 @@ My current research focuses on peer review problems that researchers face in the
 
 ---
 
-## News and Updates
+## Academic Appointments
 
-- **Aug 2023：**One paper accepted by Journal of Informetrics, see you in Chengdou!
+- Member of the Editorial Board: Information Processing & Management (2025 - present)
+
+<br>
+
+---
+
+## Referee for Journals
+
+Nature Human Behaviour, Information Processing & Management, Journal of Informetrics, Scientometrics, Journal of Information Science, Energy & Environment, Journal of Cleaner Production, Intelligent Automation & Soft Computing, Journal of Health Population and Nutrition, Current developments in nutrition
 
