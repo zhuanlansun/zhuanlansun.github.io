@@ -10,7 +10,7 @@ Lastest Update: 5 August 2025&nbsp;
 
 #### 2025
 
-- Kang, Y., Zhang, C., **Sun, Z.**, Li, Y. (2025). Investigating the effect of publication text similarity between reviewers and authors on the rigor of peer review: An intellectual proximity perspective. ***Journal of Informetrics***, 19(3).
+- Kang, Y., Zhang, C., **Sun, Z.***, Li, Y. (2025). Investigating the effect of publication text similarity between reviewers and authors on the rigor of peer review: An intellectual proximity perspective. ***Journal of Informetrics***, 19(3).
   
 #### 2024
 
