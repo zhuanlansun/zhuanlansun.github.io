@@ -4,10 +4,14 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 5 February 2025&nbsp; 
+Lastest Update: 5 August 2025&nbsp; 
 
 ### Published Paper (* Corresponding Author)
 
+#### 2025
+
+- Kang, Y., Zhang, C., **Sun, Z.**, Li, Y. (2025). Investigating the effect of publication text similarity between reviewers and authors on the rigor of peer review: An intellectual proximity perspective. ***Journal of Informetrics***, 19(3).
+  
 #### 2024
 
 - **Sun, Z.**, Zhang, C., Pang, K., Tang, Y., Li, Y. (2024). Do Changes in Journal Rank Influence Publication Output? Evidence from China. ***Scientometrics***, 129(11).
