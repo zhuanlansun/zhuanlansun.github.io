@@ -10,19 +10,19 @@ Lastest Update: 5 August 2025&nbsp;
 
 #### 2025
 
-- Kang, Y., Zhang, C., **Sun, Z.***, Li, Y. (2025). Investigating the effect of publication text similarity between reviewers and authors on the rigor of peer review: An intellectual proximity perspective. ***Journal of Informetrics***, 19(3).
+- Kang, Y., Zhang, C., **Sun, Z.***, Li, Y. (2025). Investigating the effect of publication text similarity between reviewers and authors on the rigor of peer review: An intellectual proximity perspective. **Journal of Informetrics***, 19(3).
   
 #### 2024
 
 - **Sun, Z.**, Zhang, C., Pang, K., Tang, Y., Li, Y. (2024). Do Changes in Journal Rank Influence Publication Output? Evidence from China. ***Scientometrics***, 129(11).
 
-- **_Zhang, R(Undergraduate)_**., Sun, Z*. (2024). The impact of being selected as a cover paper: Evidence from high-impact materials science journals. ***Journal of Information Science***.
+- **_Zhang, R(Undergraduate)_**., Sun, Z*. (2024). The impact of being selected as a cover paper: Evidence from high-impact materials science journals. **Journal of Information Science***.
 
 - **Sun, Z.**, He, D., Li, Y. (2024). How the readability of manuscript before journal submission advantages peer review process: Evidence from biomedical scientific publications. ***Journal of Informetrics***, 18(3).
 
 - **Sun, Z.**, Pang, K., Li, Y. (2024). The fading of status bias during the open peer review process. ***Journal of Informetrics***, 18(3).
 
-- **Sun, Z***. (2024). Textual features of peer review predict top-cited papers: An interpretable machine learning perspective. ***Journal of Informetrics***, 18(2).
+- **Sun, Z***. (2024). Textual features of peer review predict top-cited papers: An interpretable machine learning perspective. **Journal of Informetrics***, 18(2).
 
 - **Sun, Z.**, Cao, C., Liu, S., Li, Y., Ma, C. (2024). The behavioral consequences of using second-person pronouns in written communications between authors and reviewers of scientific papers. ***Nature Communications***
   
