@@ -10,7 +10,7 @@ Lastest Update: 18 October 2025&nbsp;
 
 #### 2025
 
-- **Sun, Z**. (2025). Large language models in peer review: challenges and opportunities. **Scientometrics**.
+- **Sun, Z***. (2025). Large language models in peer review: challenges and opportunities. **Scientometrics**.
 
 - Schumacher A E, Zheng P, Barber R M, et al. (2025).  Global age-sex-specific all-cause mortality and life expectancy estimates for 204 countries and territories and 660 subnational locations, 1950–2023: a demographic analysis for the Global Burden of Disease Study 2023. **The Lancet**.
 
