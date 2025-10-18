@@ -4,11 +4,19 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 5 August 2025&nbsp; 
+Lastest Update: 18 October 2025&nbsp; 
 
 ### Published Paper (* Corresponding Author)
 
 #### 2025
+
+- **Sun, Z**. (2025). Large language models in peer review: challenges and opportunities. **Scientometrics**.
+
+- Schumacher A E, Zheng P, Barber R M, et al. (2025).  Global age-sex-specific all-cause mortality and life expectancy estimates for 204 countries and territories and 660 subnational locations, 1950–2023: a demographic analysis for the Global Burden of Disease Study 2023. **The Lancet**.
+
+- Naghavi M, Kyu H H, Aalipour M A, et al. (2025). Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023. **The Lancet**.
+
+- Hay S I, Ong K L, Santomauro D F, et al. (2025). Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023. **The Lancet**.
 
 - Kang, Y., Zhang, C., **Sun, Z.***, Li, Y. (2025). Investigating the effect of publication text similarity between reviewers and authors on the rigor of peer review: An intellectual proximity perspective. **Journal of Informetrics**, 19(3).
   
