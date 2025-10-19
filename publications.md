@@ -18,7 +18,7 @@ Lastest Update: 18 October 2025&nbsp;
 
 - Hay S I, Ong K L, Santomauro D F, et al. (2025). Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023. **The Lancet**.
 
-- Kang, Y., Zhang, C., **Sun, Z.***, Li, Y. (2025). Investigating the effect of publication text similarity between reviewers and authors on the rigor of peer review: An intellectual proximity perspective. **Journal of Informetrics**, 19(3).
+- Kang, Y., Zhang, C., **Sun, Z***., Li, Y. (2025). Investigating the effect of publication text similarity between reviewers and authors on the rigor of peer review: An intellectual proximity perspective. **Journal of Informetrics**, 19(3).
   
 #### 2024
 
