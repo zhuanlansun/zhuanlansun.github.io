@@ -4,9 +4,15 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 18 October 2025&nbsp; 
+Lastest Update: 2 April 2026&nbsp; 
 
 ### Published Paper (* Corresponding Author)
+
+#### 2026
+
+- **Sun, Z***. (2026). Relationship between peer review quality and scientific impact: Insights from LLMs-assessed reviews. **Journal of Informetrics**, 20(2).
+  
+- Tang, Y., Kang, Y., Wu, S., Zhang, R., **Sun, Z***. (2026). Can large language models assess the quality of peer review? An empirical study. **Scientometrics**.
 
 #### 2025
 
