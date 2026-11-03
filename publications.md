@@ -12,6 +12,8 @@ Lastest Update: 3 Noverber 2026&nbsp;
 
 - **Sun, Z***. (2026). The association of eLife’s new publishing model with peer review
 lexical characteristics and early post-publication scientific impact. **Journal of Informetrics**, 20(4).
+
+- Kang, J., Kim, h., Kim, M., et al. (2026).  Mapping drivers of life expectancy change in Asia from 1990 to 2023. **Nature**.
   
 - **Sun, Z.**, Zhang, X., Li, M., Wang, Y. (2026). Does reviewers’ sentiment disagreement during peer review
 predict novelty and disruption?. **Scientometrics**, 131.
