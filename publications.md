@@ -4,11 +4,17 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 10 April 2026&nbsp; 
+Lastest Update: 3 Noverber 2026&nbsp; 
 
 ### Published Paper (* Corresponding Author)
 
 #### 2026
+
+- **Sun, Z***. (2026). The association of eLife’s new publishing model with peer review
+lexical characteristics and early post-publication scientific impact. **Journal of Informetrics**, 20(4).
+  
+- **Sun, Z.**, Zhang, X., Li, M., Wang, Y. (2026). Does reviewers’ sentiment disagreement during peer review
+predict novelty and disruption?. **Scientometrics**, 131.
 
 - **Sun, Z***. (2026). Relationship between peer review quality and scientific impact: Insights from LLMs-assessed reviews. **Journal of Informetrics**, 20(2).
   
